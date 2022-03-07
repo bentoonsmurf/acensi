@@ -1,0 +1,29 @@
+j'ai 1600 sommet ( 600+ clients 900+ marchants )
+si je garde tout et que je me retrouve avec un data_set de 1600 lignes avec 1600 features
+en coupant mon data_set en times_frames je peut multiplier mon nombre de lignes 
+la notion de fraude se trouve dans les aretes , il est possible que chaque client ai une ou plusieures fraude 
+dans ses aretes ,
+remplace une transaction , analyse , recomencer pour chaques transaction , 
+ on vois si le suous_graph a plus la forme d'une fraude ou pas 
+
+--- le probleme du graph embeding c'est que ca se concentre sur les sommets , nous on veux des info sur les arcs
+si j'inverse les sommet et les arcs il se passe quoi ?
+
+
+
+
+
+, il faut que je reflechisse au sujet suivant
+en finance les actions on une valeure qui evolue au cours du temps , leur variation est correlé dans la vrai vie
+la leule metrique qu'on  a c'est la correlation , ce qui est pas forcement vrai , ca peut etre un hasard si 
+deux val evolue en meme temps 
+ma mission , transformer les actions , et leur variation en graph , et en conclure des correlations
+
+
+
+
+
+
+
+
+.
